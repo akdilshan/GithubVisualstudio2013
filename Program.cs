@@ -5,6 +5,7 @@ using CreatePendingShipmentWebServiceClient.CreatePendingShipmentWebReference;
 
 // Sample code to call the FedEx Create Pending Shipment Web Service
 // Tested with Microsoft Visual Studio 2005 Professional Edition
+//adding comments to check
 namespace CreatePendingShipmentWebServiceClient
 {
     class Program
