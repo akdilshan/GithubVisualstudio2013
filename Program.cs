@@ -12,6 +12,7 @@ namespace CreatePendingShipmentWebServiceClient
     {
         static void Main(string[] args)
         {
+            //creating the request
             CreateOpenShipmentRequest request = BuildCreatePendingShipmentRequest();
             //
             OpenShipService service = new OpenShipService();
